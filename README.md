@@ -33,6 +33,7 @@ Documentations and test results will be published. Major Updates are launching w
 - #New feature - GUI Design Is Clean And Made Compact Ready With Minimal System Resourse Usages.
 - #New feature - Responsive Buttons.
 - #New feature - System Control Functions Added.
+- #Exclusive feature - Play Music.
 
 
 ## Installation
