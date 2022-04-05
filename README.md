@@ -3,9 +3,8 @@
 
 
 
-A Python based simple Personal Assistant.
-Majour step taken in the development of GUI for Project Destiny.
-In this respo, you will be looking at the basic skelton integrated with some shell commands and its corresponding responses.
+A Python based simple Personal Assistant with majour step taken in the development of GUI for Project Destiny.
+In this respo, you will be looking at the basic skelton with some shell commands and its corresponding responses integrated into a electron app build using Node.js.
 In theory, Destiny is an Autonomus Artificial Intelligence Based Digital Assistant designed to
 enhance human life and ensure privacy to data and security to life.
 Evolution is the version control for this project.
@@ -21,8 +20,15 @@ Evolution is the version control for this project.
 - Introduction To Threading.
 - Adaptive Intro Function (Greet By Time).
 - User Input Function Definition.
-- #New feature - Added Shell Commands.
-- #New feature - A New Decision Tree.
+- Added Shell Commands.
+- A New Decision Tree.
+- #New Core Feature - GUI - Designed For Crossplatform usages.
+- #New feature - Transparent GUI (So it doesnt block your vision and can keep u occupied with your work).
+- #New feature - GUI Design Is Clean And Made Compact Ready With Minimal System Resourse Usages.
+- #New feature - Responsive Buttons.
+- #New feature - System Control Functions Added.
+
+
 ## Installation
 
 Install python interpreter version
@@ -42,8 +48,40 @@ Ivona Voice Used
 IVONA 2 Salli - US English female voice [22kHz]
 
 ```
+Node.js - For Windows
+```bash
+https://nodejs.org/en/download/
+
+```
+Npm Install From Project Folder
+```bash
+npm install
+
+```
+To Kick-Start The GUI
+```bash
+npm start
+
+```
 
 ## Screenshots
 
 ![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_1.jpg)
 
+GUI Basic Appearence.
+
+## Feature And Performance Test Results
+
+![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_2.png)
+
+![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_3.png)
+
+Responsive Buttons
+
+![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_4.png)
+
+Resources Usage Test
+
+![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_5.png)
+
+Transparency Test
