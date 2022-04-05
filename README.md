@@ -7,7 +7,13 @@ A Python based simple Personal Assistant with majour step taken in the developme
 In this respo, you will be looking at the basic skelton with some shell commands and its corresponding responses integrated into a electron app build using Node.js.
 In theory, Destiny is an Autonomus Artificial Intelligence Based Digital Assistant designed to
 enhance human life and ensure privacy to data and security to life.
-Evolution is the version control for this project.
+Evolution is the version control for this project. 
+Introduces new terms for backend and frontend.
+Backend Is Called : Destiny Mainframe.
+Frontend Is Called : Destiny Framework.
+
+**There wont be source code releases for the newer versions.
+Documentations and test results will be published. Major Updates are launching which includes newer architectural designs as well as Introduction to Neural Scheme. Will be looking at all this in the future updates**
 ## Features
 
 - Cross-platform targeted design configuration.
@@ -68,7 +74,7 @@ npm start
 
 ![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_1.jpg)
 
-GUI Basic Appearence.
+**>GUI Basic Appearence**
 
 ## Feature And Performance Test Results
 
@@ -76,12 +82,12 @@ GUI Basic Appearence.
 
 ![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_3.png)
 
-Responsive Buttons
+**>Responsive Buttons**
 
 ![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_4.png)
 
-Resources Usage Test
+**>Resources Usage Test**
 
 ![App Screenshot](https://github.com/ODRDLabs/Destiny-Version-0.0.8-0.0.9-0.1.0/blob/main/Screeshots/Test_5.png)
 
-Transparency Test
+**>Transparency Test**
